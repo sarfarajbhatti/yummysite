@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two&display=swap');
+
+.navbar-brand{
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+}
